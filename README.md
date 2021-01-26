@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently review my final exams.
+- 🌱 I’m currently on winter vacation.
+- 📫 How to reach me: [ZhiHu](https://www.zhihu.com/people/Dlee-01)
+- 😄 Pronouns: Otaku
