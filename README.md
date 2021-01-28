@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![MondayCha's github stats](https://github-readme-stats.vercel.app/api?username=MondayCha&show_icons=true&theme=buefy&count_private=true)
+
 - 🌱 I’m a student of Beihang University.
 - 💬 You can visit my blog: [MondayCha’s Blog](https://18373580.xyz/).
 - 📫 How to reach me: [ZhiHu](https://www.zhihu.com/people/Dlee-01).
