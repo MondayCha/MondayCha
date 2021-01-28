@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently on winter vacation.
-- 📫 How to reach me: [ZhiHu](https://www.zhihu.com/people/Dlee-01)
-- 😄 Pronouns: Otaku
+- 🌱 I’m a student of Beihang University.
+- 💬 You can visit my blog: [MondayCha’s Blog](https://18373580.xyz/).
+- 📫 How to reach me: [ZhiHu](https://www.zhihu.com/people/Dlee-01).
