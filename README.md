@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📚 Currently a CS student at *Beihang University* (BUAA)
+- 📷 Intelligent Devices Blogger (Perhaps?)
+- 😄 Welcome to my blog: [L1l's Blog](https://mondaycha.github.io/)
+- 📫 How to reach me: [mondaycha@outlook.com](mailto:mondaycha@outlook.com)
+
+
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=MondayCha&count_private=true&hide=issues,contribs&show_icons=true)
