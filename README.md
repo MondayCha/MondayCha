@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📚 Currently a CS student at *Beihang University* (BUAA)
-- 📷 Intelligent Devices Blogger (Perhaps?)
-- 😄 Welcome to my blog: [L1l's Blog](https://mondaycha.github.io/)
+- 📚 Currently pursuing a Master's degree in *Reliable, Automated and Intelligent Distributed Systems Lab* (RAIDS Lab) at *Beihang University* (BUAA)
+- 🌱 I am focusing on deep learning scheduling, learning Kubernetes (K8s) and Go programming language.
 - 📫 How to reach me: [mondaycha@outlook.com](mailto:mondaycha@outlook.com)
 
 
