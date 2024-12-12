@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I am focusing on deep learning scheduling, learning Kubernetes (K8s) and Go programming language.
 - 📫 How to reach me: [mondaycha@outlook.com](mailto:mondaycha@outlook.com)
 
-
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=MondayCha&count_private=true&hide=issues,contribs&show_icons=true)
+![MondayCha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MondayCha&show_icons=true&theme=transparent)
