@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **MondayCha/MondayCha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +14,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📚 Currently pursuing a Master's degree in *Reliable, Automated and Intelligent Distributed Systems Lab* (RAIDS Lab) at *Beihang University* (BUAA)
-- 🌱 I am focusing on deep learning scheduling, learning Kubernetes (K8s) and Go programming language.
-- 📫 How to reach me: [mondaycha@outlook.com](mailto:mondaycha@outlook.com)
+### Hello There 👋
+
+* 😊 I am Yilong Li
+* 📚 Currently pursuing a Master's degree in RAIDS Lab at Beihang University
+* 🌱 Focusing on Distributed Systems, specifically in Deep Learning Scheduling
+* 💻 Working in Xiaohongshu as an intern now. Previously interned in SenseTime and ByteDance
+* 📮 How to reach me: [mondaycha@outlook.com](mailto:mondaycha@outlook.com)
+
+### Github Stats 🔭
 
 ![MondayCha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MondayCha&show_icons=true&theme=transparent)
+
+### Tech Stack 💻
+
+[![skillicons](https://skillicons.dev/icons?i=kubernetes,docker,grafana,prometheus,go,cpp,rust,ts,python,ruby,bash,postgres,mysql,mongodb,pnpm,react,tailwind,tauri&perline=9)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![skillicons](https://skillicons.dev/icons?i=kubernetes,docker,grafana,prometheus,go,cpp,rust,ts,python,ruby,bash,postgres,mysql,mongodb,pnpm,react,tailwind,tauri&perline=9&theme=light)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
