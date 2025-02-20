@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 * 😊 I am Yilong Li
 * 📚 Currently pursuing a Master's degree in RAIDS Lab at Beihang University
 * 🌱 Focusing on Distributed Systems, specifically in Deep Learning Scheduling
-* 💻 Working in Xiaohongshu as an intern now. Previously interned in SenseTime and ByteDance
+* 💻 Working in Aliyun as an intern now. Previously interned in SenseTime, ByteDance and Xiaohongshu
 * 📮 How to reach me: [mondaycha@outlook.com](mailto:mondaycha@outlook.com)
 
 ### Github Stats 🔭
