@@ -1,32 +1,32 @@
-
-<!--
-**MondayCha/MondayCha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hello There 👋
 
-* 😊 I am Yilong Li
-* 📚 Currently pursuing a Master's degree in RAIDS Lab at Beihang University
-* 🌱 Focusing on Distributed Systems, specifically in Deep Learning Scheduling
-* 💻 Working in Aliyun as an intern now. Previously interned in SenseTime, ByteDance and Xiaohongshu
-* 📮 How to reach me: [mondaycha@outlook.com](mailto:mondaycha@outlook.com)
+* 😊 I'm Yilong Li
+* 🎓 Master's Candidate in Computer Science at Beihang University (2023-2026)
+* 🔬 Researcher at [RAIDS Lab](https://raids-lab.github.io/) advised by [Prof. Tianyu Wo](https://soft.buaa.edu.cn/teachershouw.jsp?urltype=news.NewsContentUrl&wbtreeid=1372&wbnewsid=10080) and [Assoc. Prof. Renyu Yang](https://yangrenyu.github.io/)
+* 🌱 Focused on Distributed Systems & Deep Learning Scheduling
+* ☁️ Cloud Native enthusiast with production experience in large-scale systems
 
-### Github Stats 🔭
+### Current Focus 🔭
+- Designing network topology-aware scheduling strategies for LLM training
+- Optimizing cross-cluster model inference scheduling
+- GPU resource fragmentation reduction in Kubernetes environments
+- Developing observability solutions for AI workloads
 
 ![MondayCha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MondayCha&show_icons=true&theme=transparent)
 
-### Tech Stack 💻
+### Technical Proficiencies 💻
 
 [![skillicons](https://skillicons.dev/icons?i=kubernetes,docker,grafana,prometheus,go,cpp,rust,ts,python,ruby,bash,postgres,mysql,mongodb,pnpm,react,tailwind,tauri&perline=9)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![skillicons](https://skillicons.dev/icons?i=kubernetes,docker,grafana,prometheus,go,cpp,rust,ts,python,ruby,bash,postgres,mysql,mongodb,pnpm,react,tailwind,tauri&perline=9&theme=light)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+#### Core Expertise
+| Domain             | Technologies & Concepts                          |
+|--------------------|--------------------------------------------------|
+| **Cloud Native**   | K8s (Volcano/Koordinator), Karmada, Fluid |
+| **AI Systems**     | vLLM, Kubeflow, GPU Sharing (MIG/MPS), DCGM       |
+| **Observability**  | PromQL, Grafana            |
+
+
+### Contact 📫
+[![Email](https://img.shields.io/badge/Email-mondaycha@outlook.com-blue?logo=microsoft-outlook)](mailto:mondaycha@outlook.com)
+[![Blog](https://img.shields.io/badge/Blog-Tech%20Notes-green)](https://mondaycha.github.io/docs/)
