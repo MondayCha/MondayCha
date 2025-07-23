@@ -2,7 +2,7 @@
 
 * 😊 I'm Yilong Li
 * 🎓 Master's Candidate in Computer Science at Beihang University (2023-2026)
-* 🔬 Researcher at [RAIDS Lab](https://raids-lab.github.io/) advised by [Prof. Tianyu Wo](https://soft.buaa.edu.cn/teachershouw.jsp?urltype=news.NewsContentUrl&wbtreeid=1372&wbnewsid=10080) and [Assoc. Prof. Renyu Yang](https://yangrenyu.github.io/)
+* 🔬 I'm part of [RAIDS Lab](https://raids-lab.github.io/) advised by [Prof. Tianyu Wo](https://soft.buaa.edu.cn/teachershouw.jsp?urltype=news.NewsContentUrl&wbtreeid=1372&wbnewsid=10080) and [Assoc. Prof. Renyu Yang](https://yangrenyu.github.io/)
 * 🌱 Focused on Distributed Systems & Deep Learning Scheduling
 * ☁️ Cloud Native enthusiast with production experience in large-scale systems
 
